@@ -1,6 +1,7 @@
 FlexMenuBuilder Example
 
-More info in 
+More info in
+    https://www.assembla.com/spaces/liftweb/wiki/FlexMenuBuilder
 
 
 sbt is included so run:
