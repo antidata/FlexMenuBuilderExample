@@ -2,7 +2,7 @@ name := "starter"
 
 version := "0.1"
 
-organization := "com.fmpwizard"
+organization := "com.flexmenu"
 
 scalaVersion := "2.9.1"
 
